@@ -25,7 +25,7 @@ function App() {
       >
         <div className="flex flex-col items-center space-y-4">
           <img
-            src="assets/images/avatar-jessica.jpeg"
+            src="src/assets/avatar-jessica.jpeg"
             alt=""
             className="rounded-full h-20 w-20 "
           />
